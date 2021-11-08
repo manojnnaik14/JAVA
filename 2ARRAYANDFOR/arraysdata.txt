@@ -1,0 +1,11 @@
+class Arrays{
+
+public static void main(String []a){
+
+byte [] arrays={1,32,3,4,4,45,7,67,79,};
+
+short [] arrays={1,2,3,4,5,6,7,8,0};
+int [] arrays={2313,23,23,213,12,,23,123,213,12};
+char [] arrays={a,d,u,e,u,e,e,w,e};
+float [] arrays={3.4,32.3,23.2,2.2,696.5,5.2};
+long [] arrays={532535l,345235235356l,3453453l};

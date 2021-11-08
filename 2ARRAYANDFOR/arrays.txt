@@ -1,0 +1,16 @@
+ARRAYS
+
+datatypes [] refernceName={value};
+
+
+1]Declaration
+
+1.datatypes []referenceVariable;
+2.datatypes[] referenceVariable;
+3.datatypes referenceVariable[];
+
+
+2]initilization
+
+1.literal
+2.new keyword
